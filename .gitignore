@@ -106,7 +106,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
 .venv
 env/
 venv/
@@ -135,7 +134,6 @@ dmypy.json
 docs/notebooks/
 docs/api/
 titanic.csv
-.vscode
 data_folder
 *.pt
 *.zip
@@ -147,3 +145,5 @@ coco128
 hymenoptera_data
 xsum
 imdb
+config.bat
+node_modules
